@@ -1,0 +1,132 @@
+.body{
+    margin: 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    font-size: 20px;
+
+}
+
+
+.head{
+   
+}
+.first{
+    position: relative;
+    padding-top: 200px;
+    background-color: aquamarine;
+    margin-top: 0;
+}
+h1{
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    font-size: 90px;
+    color: 	#008b8b;
+}
+h2{
+    font-family: 'monrserrat', sans-serif;
+    font-size: 2.5rem;
+    color: 	#008b8b;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+h3{
+    font-family: monrserrat, sans-serif;
+    color: #11999E;
+} 
+.under{
+    text-decoration: underline;
+}
+.zebrag{
+    position: absolute; 
+    left: 100px;
+    height: 200px;
+    background-color: aquamarine;
+}
+.zebrap{
+    background-color: aquamarine;
+    position: relative;
+    
+}
+.zebra1{
+    position: absolute;
+    top: 20px;
+    right: 300px;
+    height: 200px;
+}
+.water{
+    margin: 30px;
+    width: 25%;
+    float: left;
+}
+.wind{
+    margin: 30px;
+    width: 25%;
+    float:right;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.middle-container{
+    background-color: beige;
+}
+
+.bottom-container{
+    background-color: aquamarine;
+    padding: 50px;
+}
+.contact-me{
+    
+    padding: 50px;
+}
+.copy{
+    margin-bottom: 0;
+}
+.info{
+    width: 30%;
+    margin: auto;
+}
+.hr{
+    border: dotted;
+    color: 	#2f4f4f;
+    width: 6px;
+}
+.btn {
+    background: #addeff;
+    background-image: -webkit-linear-gradient(top, #addeff, #008ebd);
+    background-image: -moz-linear-gradient(top, #addeff, #008ebd);
+    background-image: -ms-linear-gradient(top, #addeff, #008ebd);
+    background-image: -o-linear-gradient(top, #addeff, #008ebd);
+    background-image: linear-gradient(to bottom, #addeff, #008ebd);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .footer-link{
+    color: #11999E;
+    font-family: 'monrserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  .footer-link:hover{
+    color: #2f4f4f;
+
+  }
